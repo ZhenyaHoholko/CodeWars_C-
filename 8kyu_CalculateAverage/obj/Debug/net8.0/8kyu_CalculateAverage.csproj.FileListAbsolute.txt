@@ -1,0 +1,14 @@
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\obj\Debug\net8.0\8kyu_CalculateAverage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\obj\Debug\net8.0\8kyu_CalculateAverage.AssemblyInfoInputs.cache
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\obj\Debug\net8.0\8kyu_CalculateAverage.AssemblyInfo.cs
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\obj\Debug\net8.0\8kyu_CalculateAverage.csproj.CoreCompileInputs.cache
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\bin\Debug\net8.0\8kyu_CalculateAverage.exe
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\bin\Debug\net8.0\8kyu_CalculateAverage.deps.json
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\bin\Debug\net8.0\8kyu_CalculateAverage.runtimeconfig.json
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\bin\Debug\net8.0\8kyu_CalculateAverage.dll
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\bin\Debug\net8.0\8kyu_CalculateAverage.pdb
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\obj\Debug\net8.0\8kyu_CalculateAverage.dll
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\obj\Debug\net8.0\refint\8kyu_CalculateAverage.dll
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\obj\Debug\net8.0\8kyu_CalculateAverage.pdb
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\obj\Debug\net8.0\8kyu_CalculateAverage.genruntimeconfig.cache
+D:\Programing\CodeWars\8kyu_CalculateAverage\8kyu_CalculateAverage\obj\Debug\net8.0\ref\8kyu_CalculateAverage.dll
