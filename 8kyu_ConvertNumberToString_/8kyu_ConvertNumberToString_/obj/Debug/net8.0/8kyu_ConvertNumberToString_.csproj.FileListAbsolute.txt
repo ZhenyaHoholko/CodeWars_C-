@@ -1,0 +1,14 @@
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\obj\Debug\net8.0\8kyu_ConvertNumberToString_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\obj\Debug\net8.0\8kyu_ConvertNumberToString_.AssemblyInfoInputs.cache
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\obj\Debug\net8.0\8kyu_ConvertNumberToString_.AssemblyInfo.cs
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\obj\Debug\net8.0\8kyu_ConvertNumberToString_.csproj.CoreCompileInputs.cache
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\bin\Debug\net8.0\8kyu_ConvertNumberToString_.exe
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\bin\Debug\net8.0\8kyu_ConvertNumberToString_.deps.json
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\bin\Debug\net8.0\8kyu_ConvertNumberToString_.runtimeconfig.json
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\bin\Debug\net8.0\8kyu_ConvertNumberToString_.dll
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\bin\Debug\net8.0\8kyu_ConvertNumberToString_.pdb
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\obj\Debug\net8.0\8kyu_ConvertNumberToString_.dll
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\obj\Debug\net8.0\refint\8kyu_ConvertNumberToString_.dll
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\obj\Debug\net8.0\8kyu_ConvertNumberToString_.pdb
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\obj\Debug\net8.0\8kyu_ConvertNumberToString_.genruntimeconfig.cache
+D:\Programing\CodeWars\8kyu_ConvertNumberToString_\8kyu_ConvertNumberToString_\obj\Debug\net8.0\ref\8kyu_ConvertNumberToString_.dll
