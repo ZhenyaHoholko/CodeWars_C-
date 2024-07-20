@@ -1,0 +1,14 @@
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\obj\Debug\net8.0\8kyu_RemoveExclamationMarks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\obj\Debug\net8.0\8kyu_RemoveExclamationMarks.AssemblyInfoInputs.cache
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\obj\Debug\net8.0\8kyu_RemoveExclamationMarks.AssemblyInfo.cs
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\obj\Debug\net8.0\8kyu_RemoveExclamationMarks.csproj.CoreCompileInputs.cache
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\bin\Debug\net8.0\8kyu_RemoveExclamationMarks.exe
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\bin\Debug\net8.0\8kyu_RemoveExclamationMarks.deps.json
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\bin\Debug\net8.0\8kyu_RemoveExclamationMarks.runtimeconfig.json
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\bin\Debug\net8.0\8kyu_RemoveExclamationMarks.dll
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\bin\Debug\net8.0\8kyu_RemoveExclamationMarks.pdb
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\obj\Debug\net8.0\8kyu_RemoveExclamationMarks.dll
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\obj\Debug\net8.0\refint\8kyu_RemoveExclamationMarks.dll
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\obj\Debug\net8.0\8kyu_RemoveExclamationMarks.pdb
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\obj\Debug\net8.0\8kyu_RemoveExclamationMarks.genruntimeconfig.cache
+D:\Programing\CodeWars\8kyu_RemoveExclamationMarks\8kyu_RemoveExclamationMarks\obj\Debug\net8.0\ref\8kyu_RemoveExclamationMarks.dll
