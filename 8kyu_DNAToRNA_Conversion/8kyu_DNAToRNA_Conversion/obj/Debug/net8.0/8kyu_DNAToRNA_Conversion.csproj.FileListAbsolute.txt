@@ -1,0 +1,14 @@
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\obj\Debug\net8.0\8kyu_DNAToRNA_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\obj\Debug\net8.0\8kyu_DNAToRNA_Conversion.AssemblyInfoInputs.cache
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\obj\Debug\net8.0\8kyu_DNAToRNA_Conversion.AssemblyInfo.cs
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\obj\Debug\net8.0\8kyu_DNAToRNA_Conversion.csproj.CoreCompileInputs.cache
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\bin\Debug\net8.0\8kyu_DNAToRNA_Conversion.exe
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\bin\Debug\net8.0\8kyu_DNAToRNA_Conversion.deps.json
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\bin\Debug\net8.0\8kyu_DNAToRNA_Conversion.runtimeconfig.json
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\bin\Debug\net8.0\8kyu_DNAToRNA_Conversion.dll
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\bin\Debug\net8.0\8kyu_DNAToRNA_Conversion.pdb
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\obj\Debug\net8.0\8kyu_DNAToRNA_Conversion.dll
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\obj\Debug\net8.0\refint\8kyu_DNAToRNA_Conversion.dll
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\obj\Debug\net8.0\8kyu_DNAToRNA_Conversion.pdb
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\obj\Debug\net8.0\8kyu_DNAToRNA_Conversion.genruntimeconfig.cache
+D:\Programing\CodeWars\8kyu_DNAToRNA_Conversion\8kyu_DNAToRNA_Conversion\obj\Debug\net8.0\ref\8kyu_DNAToRNA_Conversion.dll
