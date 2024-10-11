@@ -1,0 +1,4 @@
+D:\Programing\CodeWars\7kyu_TwoFightersOneWinner\obj\Debug\net8.0\7kyu_TwoFightersOneWinner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\CodeWars\7kyu_TwoFightersOneWinner\obj\Debug\net8.0\7kyu_TwoFightersOneWinner.AssemblyInfoInputs.cache
+D:\Programing\CodeWars\7kyu_TwoFightersOneWinner\obj\Debug\net8.0\7kyu_TwoFightersOneWinner.AssemblyInfo.cs
+D:\Programing\CodeWars\7kyu_TwoFightersOneWinner\obj\Debug\net8.0\7kyu_TwoFightersOneWinner.csproj.CoreCompileInputs.cache
