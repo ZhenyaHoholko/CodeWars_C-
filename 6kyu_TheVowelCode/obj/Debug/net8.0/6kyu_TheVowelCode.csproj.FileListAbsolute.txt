@@ -1,0 +1,4 @@
+D:\Programing\CodeWars\6kyu_TheVowelCode\obj\Debug\net8.0\6kyu_TheVowelCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\CodeWars\6kyu_TheVowelCode\obj\Debug\net8.0\6kyu_TheVowelCode.AssemblyInfoInputs.cache
+D:\Programing\CodeWars\6kyu_TheVowelCode\obj\Debug\net8.0\6kyu_TheVowelCode.AssemblyInfo.cs
+D:\Programing\CodeWars\6kyu_TheVowelCode\obj\Debug\net8.0\6kyu_TheVowelCode.csproj.CoreCompileInputs.cache
