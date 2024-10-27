@@ -1,0 +1,4 @@
+D:\Programing\CodeWars\7kyu_AlternateCapitalization\obj\Debug\net8.0\7kyu_AlternateCapitalization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\CodeWars\7kyu_AlternateCapitalization\obj\Debug\net8.0\7kyu_AlternateCapitalization.AssemblyInfoInputs.cache
+D:\Programing\CodeWars\7kyu_AlternateCapitalization\obj\Debug\net8.0\7kyu_AlternateCapitalization.AssemblyInfo.cs
+D:\Programing\CodeWars\7kyu_AlternateCapitalization\obj\Debug\net8.0\7kyu_AlternateCapitalization.csproj.CoreCompileInputs.cache
