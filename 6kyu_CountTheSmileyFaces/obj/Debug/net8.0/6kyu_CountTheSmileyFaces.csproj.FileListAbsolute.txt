@@ -1,0 +1,4 @@
+D:\Programing\CodeWars\6kyu_CountTheSmileyFaces\obj\Debug\net8.0\6kyu_CountTheSmileyFaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\CodeWars\6kyu_CountTheSmileyFaces\obj\Debug\net8.0\6kyu_CountTheSmileyFaces.AssemblyInfoInputs.cache
+D:\Programing\CodeWars\6kyu_CountTheSmileyFaces\obj\Debug\net8.0\6kyu_CountTheSmileyFaces.AssemblyInfo.cs
+D:\Programing\CodeWars\6kyu_CountTheSmileyFaces\obj\Debug\net8.0\6kyu_CountTheSmileyFaces.csproj.CoreCompileInputs.cache
