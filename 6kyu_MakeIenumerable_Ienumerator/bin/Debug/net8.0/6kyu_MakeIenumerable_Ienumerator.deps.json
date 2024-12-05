@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "6kyu_MakeIenumerable_Ienumerator/1.0.0": {
+        "runtime": {
+          "6kyu_MakeIenumerable_Ienumerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "6kyu_MakeIenumerable_Ienumerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

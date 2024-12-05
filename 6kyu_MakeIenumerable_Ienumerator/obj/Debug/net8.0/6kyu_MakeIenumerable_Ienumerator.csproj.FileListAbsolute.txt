@@ -1,0 +1,14 @@
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\bin\Debug\net8.0\6kyu_MakeIenumerable_Ienumerator.exe
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\bin\Debug\net8.0\6kyu_MakeIenumerable_Ienumerator.deps.json
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\bin\Debug\net8.0\6kyu_MakeIenumerable_Ienumerator.runtimeconfig.json
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\bin\Debug\net8.0\6kyu_MakeIenumerable_Ienumerator.dll
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\bin\Debug\net8.0\6kyu_MakeIenumerable_Ienumerator.pdb
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\obj\Debug\net8.0\6kyu_MakeIenumerable_Ienumerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\obj\Debug\net8.0\6kyu_MakeIenumerable_Ienumerator.AssemblyInfoInputs.cache
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\obj\Debug\net8.0\6kyu_MakeIenumerable_Ienumerator.AssemblyInfo.cs
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\obj\Debug\net8.0\6kyu_MakeIenumerable_Ienumerator.csproj.CoreCompileInputs.cache
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\obj\Debug\net8.0\6kyu_MakeIenumerable_Ienumerator.dll
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\obj\Debug\net8.0\refint\6kyu_MakeIenumerable_Ienumerator.dll
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\obj\Debug\net8.0\6kyu_MakeIenumerable_Ienumerator.pdb
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\obj\Debug\net8.0\6kyu_MakeIenumerable_Ienumerator.genruntimeconfig.cache
+D:\Programing\6kyu_MakeIenumerable_Ienumerator\obj\Debug\net8.0\ref\6kyu_MakeIenumerable_Ienumerator.dll
